@@ -1,4 +1,5 @@
-$(document).read(function(){
-    $('#btn').click('index2.html');
+$(document).ready(function(){
+    $('.BIGS').hide()});
 
-});
+event.preventDefault();
+
